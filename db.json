@@ -1,4 +1,5 @@
-[
+{
+    "data": [
     {
         "name": "Jeongmin",
         "age": 21
@@ -7,4 +8,4 @@
         "name": "Vanida",
         "age": 20
     }
-]
+]}
