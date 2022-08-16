@@ -1,11 +1,29 @@
 {
     "data": [
-    {
-        "name": "Jeongmin",
-        "age": 21
-    },
-    {
-        "name": "Vanida",
-        "age": 20
-    }
-]}
+        {
+            "id": 1,
+            "name": "Harry",
+            "surname": "Potter",
+            "age": 42,
+            "hometown": "London, UK",
+            "vaccine": 
+                [
+                    { "id": 1, "type": "Pfizer", "date": "31-07-2021" },
+                    { "id": 2, "type": "Pfizer", "date": "21-08-2021" }, 
+                    { "id": 3, "type": "Pfizer", "date": "29-01-2022" }
+                ]
+        },
+        {
+            "id": 2,
+            "name": "Sarah",
+            "surname": "Johnson",
+            "age": 28,
+            "hometown": "New York, US",
+            "vaccine": 
+                [
+                    { "id": 1, "type": "Moderna", "date": "04-03-2021" },
+                    { "id": 2, "type": "Moderna", "date": "25-03-2021" }
+                ]
+        }
+    ]
+}
