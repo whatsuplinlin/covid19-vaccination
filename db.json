@@ -1,29 +1,185 @@
 {
-    "data": [
+    "people": [
         {
             "id": 1,
             "name": "Harry",
             "surname": "Potter",
-            "age": 42,
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg",
+            "age": 16,
             "hometown": "London, UK",
-            "vaccine": 
-                [
-                    { "number": 1, "type": "Pfizer", "date": "31-07-2021" },
-                    { "number": 2, "type": "Pfizer", "date": "21-08-2021" }, 
-                    { "number": 3, "type": "Pfizer", "date": "29-01-2022" }
-                ]
+            "status": "3rd dose"
         },
         {
             "id": 2,
             "name": "Sarah",
             "surname": "Johnson",
+            "image": "https://www.asc.upenn.edu/sites/default/files/2020-09/Sarah_J_Jackson_360_0.jpg",
             "age": 28,
             "hometown": "New York, US",
-            "vaccine": 
-                [
-                    { "number": 1, "type": "Moderna", "date": "04-03-2021" },
-                    { "number": 2, "type": "Moderna", "date": "25-03-2021" }
-                ]
-        }
+            "vaccine": "2nd dose"
+        },
+        {
+            "id": 3,
+            "name": "Peter",
+            "surname": "Parker",
+            "image": "https://pbs.twimg.com/profile_images/1492124219685187586/_XXZJnwi_400x400.jpg",
+            "age": 20,
+            "hometown": "New York, US",
+            "vaccine": "3rd dose"
+        }, 
+        {
+            "id": 4,
+            "name": "Shawn",
+            "surname": "Mendes",
+            "image": "https://st3.depositphotos.com/1694341/14467/i/450/depositphotos_144678365-stock-photo-singer-shawn-mendes.jpg",
+            "age": 25,
+            "hometown": "Toronto, Canada",
+            "vaccine": "3rd dose"
+        }, 
+        {
+            "id": 5,
+            "name": "Ariana",
+            "surname": "Grande",
+            "image": "https://www.biography.com/.image/t_share/MTQ3MzM3MTcxNjA5NTkzNjQ3/ariana_grande_photo_jon_kopaloff_getty_images_465687098.jpg",
+            "age": 29,
+            "hometown": "Florida, US",
+            "vaccine": "4th dose"
+        } ,
+        {
+            "id": 6,
+            "name": "John",
+            "surname": "Legend",
+            "image": "https://media1.popsugar-assets.com/files/thumbor/gxKGFtqCmmY5v0qSTmLLrFYnPmQ/768x113:2266x1611/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/12/12/830/n/1922398/875274405df28d160209a5.52601179_/i/John-Legend.jpg",
+            "age": 43,
+            "hometown": "Ohio, US",
+            "vaccine": "3rd dose"
+        },
+        {
+            "id": 7,
+            "name": "Anne",
+            "surname": "Marie",
+            "image": "https://i1.sndcdn.com/artworks-YO7DWXLyEOJIydqp-hMTWnA-t500x500.jpg",
+            "age": 31,
+            "hometown": "East Tilbury, UK",
+            "vaccine": "2nd dose"
+        },
+        {
+            "id": 8,
+            "name": "Namjoon",
+            "surname": "Kim",
+            "image": "https://i.pinimg.com/originals/c1/32/c7/c132c7363c2a2c2cb59bae50d91b6afc.jpg",
+            "age": 28,
+            "hometown": "Seoul, Korea",
+            "vaccine": "4th dose"
+        },
+        {
+            "id": 9,
+            "name": "Justin",
+            "surname": "Bieber",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE1NjMxMDUyM15BMl5BanBnXkFtZTgwODMzNDM1NTE@._V1_.jpg",
+            "age": 28,
+            "hometown": "Toronto, Canada",
+            "vaccine": "3rd dose"
+        },
+        {
+            "id": 10,
+            "name": "Billie",
+            "surname": "Eilish",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/BillieEilishO2160622_%2819_of_45%29_%2852153214339%29_%28cropped_2%29.jpg",
+            "age": 20,
+            "hometown": "California, US",
+            "vaccine": "2nd dose"
+        },
+    ], 
+    "vaccine" : [
+        { 
+            "id": 1,
+            "details": 
+            [
+                { "number": 1, "type": "Pfizer", "date": "31-07-2021" },
+                { "number": 2, "type": "Pfizer", "date": "21-08-2021" }, 
+                { "number": 3, "type": "Pfizer", "date": "29-01-2022" }
+            ]
+        }, 
+        { 
+            "id": 2,
+            "details": 
+            [
+                { "number": 1, "type": "Moderna", "date": "04-03-2021" },
+                { "number": 2, "type": "Moderna", "date": "25-03-2021" }
+            ]
+        }, 
+        { 
+            "id": 3,
+            "details": 
+            [
+                { "number": 1, "type": "Pfizer", "date": "18-10-2021" },
+                { "number": 2, "type": "Moderna", "date": "09-11-2021" },
+                { "number": 3, "type": "Moderna", "date": "20-07-2022" }
+            ]
+        }, 
+        { 
+            "id": 4,
+            "details": 
+            [
+                { "number": 1, "type": "Pfizer", "date": "02-09-2021" },
+                { "number": 2, "type": "Pfizer", "date": "23-09-2021" },
+                { "number": 3, "type": "Pfizer", "date": "18-04-2022" }
+            ]
+        }, 
+        { 
+            "id": 5,
+            "details": 
+            [
+                { "number": 1, "type": "AZ", "date": "18-12-2020" },
+                { "number": 2, "type": "AZ", "date": "11-01-2021" },
+                { "number": 3, "type": "Moderna", "date": "22-10-2021" },
+                { "number": 4, "type": "Moderna", "date": "29-06-2022" }
+            ]
+        }, 
+        { 
+            "id": 6,
+            "details": 
+            [
+                { "number": 1, "type": "Pfizer", "date": "18-10-2021" },
+                { "number": 2, "type": "Moderna", "date": "09-11-2021" },
+                { "number": 3, "type": "Moderna", "date": "20-07-2022" }
+            ]
+        },
+        { 
+            "id": 7,
+            "details": 
+            [
+                { "number": 1, "type": "Moderna", "date": "24-02-2021" },
+                { "number": 2, "type": "Moderna", "date": "18-03-2021" }
+            ]
+        },
+        { 
+            "id": 8,
+            "details": 
+            [
+                { "number": 1, "type": "Pfizer", "date": "15-01-2021" },
+                { "number": 2, "type": "Pfizer", "date": "08-02-2021" },
+                { "number": 3, "type": "Pfizer", "date": "19-09-2021" },
+                { "number": 4, "type": "Pfizer", "date": "11-10-2022" }
+            ]
+        }, 
+        { 
+            "id": 9,
+            "details": 
+            [
+                { "number": 1, "type": "AZ", "date": "18-03-2021" },
+                { "number": 2, "type": "Moderna", "date": "10-04-2021" },
+                { "number": 3, "type": "Moderna", "date": "27-12-2021" }
+            ]
+        },
+        { 
+            "id": 10,
+            "details": 
+            [
+                { "number": 1, "type": "Moderna", "date": "23-08-2021" },
+                { "number": 2, "type": "Moderna", "date": "15-09-2021" }
+            ]
+        } 
     ]
 }
