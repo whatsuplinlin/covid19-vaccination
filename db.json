@@ -6,7 +6,7 @@
             "surname": "Potter",
             "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg",
             "age": 16,
-            "gender": "male",
+            "gender": "Male",
             "hometown": "London, UK",
             "status": "3rd dose"
         },
@@ -16,7 +16,7 @@
             "surname": "Puth",
             "image": "https://m.media-amazon.com/images/M/MV5BMzM2MDk5ODAyNV5BMl5BanBnXkFtZTgwNzIwNjcxNzE@._V1_UY264_CR103,0,178,264_AL_.jpg",
             "age": 30,
-            "gender": "male",
+            "gender": "Male",
             "hometown": "New Jersey, US",
             "status": "2nd dose"
         },
@@ -26,7 +26,7 @@
             "surname": "Parker",
             "image": "https://pbs.twimg.com/profile_images/1492124219685187586/_XXZJnwi_400x400.jpg",
             "age": 20,
-            "gender": "male",
+            "gender": "Male",
             "hometown": "New York, US",
             "status": "3rd dose"
         }, 
@@ -36,7 +36,7 @@
             "surname": "Mendes",
             "image": "https://st3.depositphotos.com/1694341/14467/i/450/depositphotos_144678365-stock-photo-singer-shawn-mendes.jpg",
             "age": 25,
-            "gender": "male",
+            "gender": "Male",
             "hometown": "Toronto, Canada",
             "status": "3rd dose"
         }, 
@@ -46,7 +46,7 @@
             "surname": "Grande",
             "image": "https://www.biography.com/.image/t_share/MTQ3MzM3MTcxNjA5NTkzNjQ3/ariana_grande_photo_jon_kopaloff_getty_images_465687098.jpg",
             "age": 29,
-            "gender": "female",
+            "gender": "Female",
             "hometown": "Florida, US",
             "status": "4th dose"
         } ,
@@ -56,7 +56,7 @@
             "surname": "Legend",
             "image": "https://media1.popsugar-assets.com/files/thumbor/gxKGFtqCmmY5v0qSTmLLrFYnPmQ/768x113:2266x1611/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/12/12/830/n/1922398/875274405df28d160209a5.52601179_/i/John-Legend.jpg",
             "age": 43,
-            "gender": "male",
+            "gender": "Male",
             "hometown": "Ohio, US",
             "status": "3rd dose"
         },
@@ -66,7 +66,7 @@
             "surname": "Marie",
             "image": "https://i1.sndcdn.com/artworks-YO7DWXLyEOJIydqp-hMTWnA-t500x500.jpg",
             "age": 31,
-            "gender": "female",
+            "gender": "Female",
             "hometown": "East Tilbury, UK",
             "status": "2nd dose"
         },
@@ -76,7 +76,7 @@
             "surname": "Kim",
             "image": "https://i.pinimg.com/originals/c1/32/c7/c132c7363c2a2c2cb59bae50d91b6afc.jpg",
             "age": 28,
-            "gender": "male",
+            "gender": "Male",
             "hometown": "Seoul, Korea",
             "status": "4th dose"
         },
@@ -86,7 +86,7 @@
             "surname": "Bieber",
             "image": "https://m.media-amazon.com/images/M/MV5BMjE1NjMxMDUyM15BMl5BanBnXkFtZTgwODMzNDM1NTE@._V1_.jpg",
             "age": 28,
-            "gender": "male",
+            "gender": "Male",
             "hometown": "Toronto, Canada",
             "status": "3rd dose"
         },
@@ -96,7 +96,7 @@
             "surname": "Eilish",
             "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/BillieEilishO2160622_%2819_of_45%29_%2852153214339%29_%28cropped_2%29.jpg",
             "age": 20,
-            "gender": "female",
+            "gender": "Female",
             "hometown": "California, US",
             "status": "2nd dose"
         },
@@ -106,7 +106,7 @@
             "surname": "Watson",
             "image": "https://i.pinimg.com/originals/88/aa/b9/88aab93b1948c13d6acb878ced5e182e.jpg",
             "age": 32,
-            "gender": "female",
+            "gender": "Female",
             "hometown": "Menchester, UK",
             "status": "1st dose"
         } ,
@@ -116,7 +116,7 @@
             "surname": "Lipa",
             "image": "https://m.media-amazon.com/images/M/MV5BOWRiMzRlZGUtNjA1Zi00OGJlLTg3Y2QtYjQ3MDNhOTQ1OWVjXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
             "age": 27,
-            "gender": "female",
+            "gender": "Female",
             "hometown": "London, UK",
             "status": "3rd dose"
         },
@@ -126,7 +126,7 @@
             "surname": "Manoban",
             "image": "https://cdn.asiatatler.com/generationt/i/ap/2019/06/19135555-lalisa-manoban-afp_cover_1331x1999.jpg",
             "age": 25,
-            "gender": "female",
+            "gender": "Female",
             "hometown": "Bangkok, Thailand",
             "status": "4th dose"
         },
@@ -136,7 +136,7 @@
             "surname": "Gosling",
             "image": "https://m.media-amazon.com/images/M/MV5BMTQzMjkwNTQ2OF5BMl5BanBnXkFtZTgwNTQ4MTQ4MTE@._V1_.jpg",
             "age": 41,
-            "gender": "male",
+            "gender": "Male",
             "hometown": "London, Canada",
             "status": "2nd dose"
         },
@@ -146,7 +146,7 @@
             "surname": "Downey",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NG8tRjukxvrSbGk2CfWU_aw9yUjpnFqbAoORbc7lZityM2nl",
             "age": 57,
-            "gender": "male",
+            "gender": "Male",
             "hometown": "New York, US",
             "status": "2nd dose"
         }
