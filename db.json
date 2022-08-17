@@ -1,7 +1,7 @@
 {
     "people": [
         {
-            "id": 1
+            "id": 1,
             "name": "Harry",
             "surname": "Potter",
             "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg",
