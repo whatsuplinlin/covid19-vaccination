@@ -38,7 +38,7 @@
             "age": 25,
             "gender": "Male",
             "hometown": "Toronto, Canada",
-            "status": "3rd dose"
+            "status": "2nd dose"
         }, 
         {
             "id": 5,
@@ -54,11 +54,11 @@
             "id": 6,
             "name": "John",
             "surname": "Legend",
-            "image": "https://media1.popsugar-assets.com/files/thumbor/gxKGFtqCmmY5v0qSTmLLrFYnPmQ/768x113:2266x1611/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/12/12/830/n/1922398/875274405df28d160209a5.52601179_/i/John-Legend.jpg",
+            "image": "https://www.biography.com/.image/t_share/MTgwNTA3MTcxMjg3NDc1NTYw/gettyimages-1230039869.jpg",
             "age": 43,
             "gender": "Male",
             "hometown": "Ohio, US",
-            "status": "3rd dose"
+            "status": "1st dose"
         },
         {
             "id": 7,
@@ -78,7 +78,7 @@
             "age": 28,
             "gender": "Male",
             "hometown": "Seoul, Korea",
-            "status": "4th dose"
+            "status": "3rd dose"
         },
         {
             "id": 9,
@@ -94,7 +94,7 @@
             "id": 10,
             "name": "Billie",
             "surname": "Eilish",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/BillieEilishO2160622_%2819_of_45%29_%2852153214339%29_%28cropped_2%29.jpg",
+            "image": "https://p-u.popcdn.net/attachments/images/000/032/355/large/billie_eilish.jpeg?1621226268",
             "age": 20,
             "gender": "Female",
             "hometown": "California, US",
@@ -128,7 +128,7 @@
             "age": 25,
             "gender": "Female",
             "hometown": "Bangkok, Thailand",
-            "status": "4th dose"
+            "status": "3rd dose"
         },
         {
             "id": 14,
@@ -158,17 +158,13 @@
             "age": 32,
             "gender": "Female",
             "hometown": "California, US",
-            "status": "3rd dose"
+            "status": "2nd dose"
         }
     ],
     "vaccine" : [
         { 
             "id": 1,
-            "first": ,
-            "second": ,
-            "third": "none",
-            "fourth": "none",
-            "details": 
+            "details":
             [
                 { "number": 1, "type": "Pfizer", "date": "31-07-2021" },
                 { "number": 2, "type": "Pfizer", "date": "21-08-2021" }, 
@@ -197,8 +193,7 @@
             "details": 
             [
                 { "number": 1, "type": "Pfizer", "date": "02-09-2021" },
-                { "number": 2, "type": "Pfizer", "date": "23-09-2021" },
-                { "number": 3, "type": "Pfizer", "date": "18-04-2022" }
+                { "number": 2, "type": "Pfizer", "date": "23-09-2021" }
             ]
         }, 
         { 
@@ -215,9 +210,7 @@
             "id": 6,
             "details": 
             [
-                { "number": 1, "type": "Pfizer", "date": "18-10-2021" },
-                { "number": 2, "type": "Moderna", "date": "09-11-2021" },
-                { "number": 3, "type": "Moderna", "date": "20-07-2022" }
+                { "number": 1, "type": "Pfizer", "date": "18-10-2021" }
             ]
         },
         { 
@@ -234,8 +227,7 @@
             [
                 { "number": 1, "type": "Pfizer", "date": "15-01-2021" },
                 { "number": 2, "type": "Pfizer", "date": "08-02-2021" },
-                { "number": 3, "type": "Pfizer", "date": "19-09-2021" },
-                { "number": 4, "type": "Pfizer", "date": "11-10-2022" }
+                { "number": 3, "type": "Pfizer", "date": "19-09-2021" }
             ]
         }, 
         { 
@@ -275,10 +267,9 @@
             "id": 13,
             "details": 
             [
-                { "number": 1, "type": "Moderna", "date": "02-02-2021" },
+                { "number": 1, "type": "AZ", "date": "02-02-2021" },
                 { "number": 2, "type": "Moderna", "date": "23-02-2021" },
-                { "number": 3, "type": "Moderna", "date": "19-10-2021" },
-                { "number": 4, "type": "Moderna", "date": "07-08-2022" }
+                { "number": 3, "type": "Moderna", "date": "19-10-2021" }
             ]
         },
         { 
@@ -302,8 +293,7 @@
             "details": 
             [
                 { "number": 1, "type": "Moderna", "date": "10-02-2021" },
-                { "number": 2, "type": "Moderna", "date": "04-03-2021" },
-                { "number": 3, "type": "Pfizer", "date": "26-11-2021" }
+                { "number": 2, "type": "Moderna", "date": "04-03-2021" }
             ]
         }
     ]
