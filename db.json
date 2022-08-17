@@ -143,17 +143,31 @@
         {
             "id": 15,
             "name": "Robert",
-            "surname": "Downey",
+            "surname": "Downey Jr.",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NG8tRjukxvrSbGk2CfWU_aw9yUjpnFqbAoORbc7lZityM2nl",
             "age": 57,
             "gender": "Male",
             "hometown": "New York, US",
             "status": "2nd dose"
+        },
+        {
+            "id": 16,
+            "name": "Kristen",
+            "surname": "Stewart",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kristen_Stewart_in_2022.JPG",
+            "age": 32,
+            "gender": "Female",
+            "hometown": "California, US",
+            "status": "3rd dose"
         }
     ],
     "vaccine" : [
         { 
             "id": 1,
+            "first": ,
+            "second": ,
+            "third": "none",
+            "fourth": "none",
             "details": 
             [
                 { "number": 1, "type": "Pfizer", "date": "31-07-2021" },
@@ -281,6 +295,15 @@
             [
                 { "number": 1, "type": "Pfizer", "date": "11-07-2022" },
                 { "number": 2, "type": "Pfizer", "date": "03-08-2022" }
+            ]
+        }, 
+        { 
+            "id": 16,
+            "details": 
+            [
+                { "number": 1, "type": "Moderna", "date": "10-02-2021" },
+                { "number": 2, "type": "Moderna", "date": "04-03-2021" },
+                { "number": 3, "type": "Pfizer", "date": "26-11-2021" }
             ]
         }
     ]
