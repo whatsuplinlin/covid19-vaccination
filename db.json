@@ -8,7 +8,8 @@
             "age": 16,
             "gender": "Male",
             "hometown": "London, UK",
-            "status": "3rd dose"
+            "status": "3rd dose",
+            "doctorRec": []
         },
         {
             "id": 2,
@@ -18,7 +19,8 @@
             "age": 30,
             "gender": "Male",
             "hometown": "New Jersey, US",
-            "status": "2nd dose"
+            "status": "2nd dose",
+            "doctorRec": []
         },
         {
             "id": 3,
@@ -28,7 +30,8 @@
             "age": 20,
             "gender": "Male",
             "hometown": "New York, US",
-            "status": "3rd dose"
+            "status": "3rd dose",
+            "doctorRec": []
         }, 
         {
             "id": 4,
@@ -38,7 +41,8 @@
             "age": 25,
             "gender": "Male",
             "hometown": "Toronto, Canada",
-            "status": "2nd dose"
+            "status": "2nd dose",
+            "doctorRec": []
         }, 
         {
             "id": 5,
@@ -48,7 +52,8 @@
             "age": 29,
             "gender": "Female",
             "hometown": "Florida, US",
-            "status": "4th dose"
+            "status": "4th dose",
+            "doctorRec": []
         } ,
         {
             "id": 6,
@@ -58,7 +63,8 @@
             "age": 43,
             "gender": "Male",
             "hometown": "Ohio, US",
-            "status": "1st dose"
+            "status": "1st dose",
+            "doctorRec": []
         },
         {
             "id": 7,
@@ -68,7 +74,8 @@
             "age": 31,
             "gender": "Female",
             "hometown": "East Tilbury, UK",
-            "status": "2nd dose"
+            "status": "2nd dose",
+            "doctorRec": []
         },
         {
             "id": 8,
@@ -78,7 +85,8 @@
             "age": 28,
             "gender": "Male",
             "hometown": "Seoul, Korea",
-            "status": "3rd dose"
+            "status": "3rd dose",
+            "doctorRec": []
         },
         {
             "id": 9,
@@ -88,7 +96,8 @@
             "age": 28,
             "gender": "Male",
             "hometown": "Toronto, Canada",
-            "status": "3rd dose"
+            "status": "3rd dose",
+            "doctorRec": []
         },
         {
             "id": 10,
@@ -98,7 +107,8 @@
             "age": 20,
             "gender": "Female",
             "hometown": "California, US",
-            "status": "2nd dose"
+            "status": "2nd dose",
+            "doctorRec": []
         },
         {
             "id": 11,
@@ -108,7 +118,8 @@
             "age": 32,
             "gender": "Female",
             "hometown": "Menchester, UK",
-            "status": "1st dose"
+            "status": "1st dose",
+            "doctorRec": []
         } ,
         {
             "id": 12,
@@ -118,7 +129,8 @@
             "age": 27,
             "gender": "Female",
             "hometown": "London, UK",
-            "status": "3rd dose"
+            "status": "3rd dose",
+            "doctorRec": []
         },
         {
             "id": 13,
@@ -128,7 +140,8 @@
             "age": 25,
             "gender": "Female",
             "hometown": "Bangkok, Thailand",
-            "status": "3rd dose"
+            "status": "3rd dose",
+            "doctorRec": []
         },
         {
             "id": 14,
@@ -138,7 +151,8 @@
             "age": 41,
             "gender": "Male",
             "hometown": "London, Canada",
-            "status": "2nd dose"
+            "status": "2nd dose",
+            "doctorRec": []
         },
         {
             "id": 15,
@@ -148,17 +162,8 @@
             "age": 57,
             "gender": "Male",
             "hometown": "New York, US",
-            "status": "2nd dose"
-        },
-        {
-            "id": 16,
-            "name": "Kristen",
-            "surname": "Stewart",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kristen_Stewart_in_2022.JPG",
-            "age": 32,
-            "gender": "Female",
-            "hometown": "California, US",
-            "status": "2nd dose"
+            "status": "2nd dose",
+            "doctorRec": []
         }
     ],
     "vaccine" : [
@@ -286,14 +291,6 @@
             [
                 { "number": 1, "type": "Pfizer", "date": "11-07-2022" },
                 { "number": 2, "type": "Pfizer", "date": "03-08-2022" }
-            ]
-        }, 
-        { 
-            "id": 16,
-            "details": 
-            [
-                { "number": 1, "type": "Moderna", "date": "10-02-2021" },
-                { "number": 2, "type": "Moderna", "date": "04-03-2021" }
             ]
         }
     ]
